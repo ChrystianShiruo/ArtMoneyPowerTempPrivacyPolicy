@@ -12,5 +12,8 @@
 <h2>Data Collection</h2>
 <p>No personal data is collected through camera usage. AR tracking processes occur locally in real-time.</p>
 
+<h2>Changes to This Policy</h2>
+<p>We may update this policy as features evolve. Check back for updates.</p>
+
 <h2>Contact Us</h2>
 <p>For questions: [Your Email]</p>
